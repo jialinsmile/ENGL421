@@ -1,2 +1,3 @@
 # ENGL421
-Technical Documentation
+Research Problem: What is the effects of transparency on innovation productivity in open hacking competition? 
+Relevance: The role of transparency in technical communication, and how it affected the quality of the end products came up by developers. 
